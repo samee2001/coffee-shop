@@ -27,7 +27,7 @@ class SettingsPage extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       Text(
-                        "Dark Mode",
+                        "Mode Change",
                         style: TextStyle(
                           fontSize: 15,
                         ),
